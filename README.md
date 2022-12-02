@@ -1,7 +1,9 @@
 ### Seja bem vindo ao Github  do Átila <br>
   ##
-- 🔭 Apaixonado por tecnologia
 - 🌱 Estudante Sistemas da Informação 6/8 temino em dez 2023.
+- 🔭 Deixo aqui o link de projetos
+-   https://caravanbootstrapgithub.netlify.app/
+-
  ##
 <div align="center">
   <a href="https://github.com/atilavieira">

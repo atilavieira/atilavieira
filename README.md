@@ -1,6 +1,6 @@
 ### Seja bem vindo ao Github  do Átila <br>
   ##
-- 🌱 Estudante Sistemas da Informação 6/8 temino em dez 2023.
+- 🌱 Estudante Sistemas da Informação 7/8 temino em dez 2023.
 - 🔭 Deixo aqui o link de projetos
 -   https://caravanbootstrapgithub.netlify.app/
 -   https://site-animais-fantasticos.netlify.app/

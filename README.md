@@ -16,6 +16,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="atila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">.
+  <img align="center" alt="atila-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">.
   <img align="center" alt="atila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">.
   <img align="center" alt="atila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">.
   <img align="center" alt="atila-bootstrap" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />.       

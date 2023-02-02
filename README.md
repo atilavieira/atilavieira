@@ -20,7 +20,9 @@
   <img align="center" alt="atila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">.
   <img align="center" alt="atila-bootstrap" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" /
        >.
-  <img align="center" alt="atila-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />.
+  
+            <img align="center" alt="atila-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+          
 
   <img align="center" alt="atila-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />.     
  </div> 

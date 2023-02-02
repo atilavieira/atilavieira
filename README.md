@@ -2,8 +2,8 @@
   ##
 - 🌱 Estudante Sistemas da Informação 7/8 temino em dez 2023.  
 - 🔭 Deixei aqui o link de projetos✔
-- https://cardapio-dom-costela.netlify.app/
-- https://disparo-de-email-react.netlify.app/   
+-   https://cardapio-dom-costela.netlify.app/
+-   https://disparo-de-email-react.netlify.app/   
 -   https://caravanbootstrapgithub.netlify.app/
 -   https://site-animais-fantasticos.netlify.app/
 -   https://atilavieira.github.io/PokedexApi/
@@ -18,12 +18,9 @@
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">.
   <img align="center" alt="atila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">.
   <img align="center" alt="atila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">.
-  <img align="center" alt="atila-bootstrap" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" /
-       >.
-  
-            <img align="center" alt="atila-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+  <img align="center" alt="atila-bootstrap" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />.
+  <img align="center" alt="atila-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
           
-
   <img align="center" alt="atila-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />.     
  </div> 
 <br>                                    

@@ -1,7 +1,8 @@
 ### Seja bem vindo ao Github  do Átila <br>
   ##
-- 🌱 Estudante Sistemas da Informação 7/8 temino em dez 2023.
-- 🔭 Deixo aqui o link de projetos
+- 🌱 Estudante Sistemas da Informação 7/8 temino em dez 2023.  
+- 🔭 Deixei aqui o link de projetos✔
+- https://disparo-de-email-react.netlify.app/   
 -   https://caravanbootstrapgithub.netlify.app/
 -   https://site-animais-fantasticos.netlify.app/
 -   https://atilavieira.github.io/PokedexApi/

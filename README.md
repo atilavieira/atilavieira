@@ -2,6 +2,7 @@
   ##
 - 🌱 Estudante Sistemas da Informação 7/8 temino em dez 2023.  
 - 🔭 Deixei aqui o link de projetos✔
+- https://cardapio-dom-costela.netlify.app/
 - https://disparo-de-email-react.netlify.app/   
 -   https://caravanbootstrapgithub.netlify.app/
 -   https://site-animais-fantasticos.netlify.app/

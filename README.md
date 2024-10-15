@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💬 Olá me chamo Átila, sou formado em Sistemas da Informação  <br>⚡Deixarei aqui o link de projetos ✔<br>
+💬 Olá me chamo Átila, sou formado em Sistemas da Informação  
 
 
 ## 🌐 Socials:
